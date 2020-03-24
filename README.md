@@ -14,8 +14,8 @@ We ran 400 permutations of models, always using the so called Elastic Net regres
 
 We fit a __regression tree model__ using the metric __balanced accuracy__ as target variable and as regressors the afforementioned _options for the model_. With the following links we can see regression tree graphs and histograms of balanced accuracy
 
-- Here we can find the [rtFMS outcome for blood NEFA in dairy cows]()
-- Here we can find the [rtFMS outcome for blood BHBA in dairy cows]()
+- Here we can find the [rtFMS outcome for blood NEFA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_NEFA.md)
+- Here we can find the [rtFMS outcome for blood BHBA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_BHBA.md)
 
 
 
