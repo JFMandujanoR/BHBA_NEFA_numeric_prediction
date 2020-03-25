@@ -1,7 +1,7 @@
 # rtFMS Outcome for Blood NEFA
 
 The following picture is a histogram of the balanced accuracy after running all the options.
-![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Hist_Binary_Bal_Acc_GLMNET_NEFA.png)
+![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Hist_Binary_Bal_Acc_GLMNET_NEFA.jpg)
 
 We used the rfFMS technique to obtain the following tree:
 ![tree](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Tree_Binary_Bal_Acc_GLMNET_NEFA.png)
