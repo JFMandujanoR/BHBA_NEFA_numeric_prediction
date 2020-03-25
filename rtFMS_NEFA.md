@@ -5,7 +5,7 @@ Here we can find a [histogram](https://github.com/JFMandujanoR/QCheck_Prediction
 The [graph](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Tree_Binary_Bal_Acc_GLMNET_NEFA.png) shows us that the we have two best models with similar permance:
 
 - Variable: FAF
-- Breed: Breed.Yes, Breed.No
+- Breed: Breed.No
 - Time of milk sampling: Milk.Model.Yes
 
 And: 
