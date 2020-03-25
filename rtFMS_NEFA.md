@@ -27,7 +27,7 @@ In order to compare the different branches of the tree we selected one model per
 
 We say that the best branch of models is the one that reach the highest value in each feature (se, sp, blanced.acc and diag.acc). In this case, we selected the first two branches of models.
 
-We can consult the complete [tables of these models here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/dat1_NEFA.xls).
+We can consult the complete [tables of these models here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/dat1_NEFA.xlsx).
 
 _________________________________________________________________________________________________________________________________
 [QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report)
