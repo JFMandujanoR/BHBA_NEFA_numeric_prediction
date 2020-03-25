@@ -15,3 +15,6 @@ And:
 - EMR_standardization: EMR.NONE
 
 Note: The other variables do not appear in this conclusions because their elections among their options are not significant for the final result.
+
+_________________________________________________________________________________________________________________________________
+[QCheck_Prediction_Repor](https://github.com/JFMandujanoR/QCheck_Prediction_Report)
