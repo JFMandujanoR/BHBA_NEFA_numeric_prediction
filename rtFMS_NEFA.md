@@ -16,3 +16,6 @@ And:
 - Breed: Breed.Yes
 
 Note: The other variables do not appear in this conclusions because their elections among their options are not significant for the final result.
+
+_________________________________________________________________________________________________________________________________
+[QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report)
