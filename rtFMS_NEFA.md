@@ -6,7 +6,7 @@ The following picture is a histogram of the balanced accuracy after running all 
 We used the rfFMS technique to obtain the following tree:
 ![tree](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Tree_Binary_Bal_Acc_GLMNET_NEFA.png)
 
-This shows that the we have two best models with similar permance:
+This shows that the we have two different models with similar performance that we can select:
 
 - Variable: FAF
 - Breed: Breed.No
