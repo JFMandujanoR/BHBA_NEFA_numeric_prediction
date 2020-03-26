@@ -6,7 +6,7 @@ The following picture is a histogram of the balanced accuracy after running all 
 We used the rfFMS technique to obtain the following tree:
 ![tree](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Tree_Binary_Bal_Acc_GLMNET_BHBA.png)
 
-This shows that the we have two best models with similar permance:
+This shows that the we have two best models with similar performance:
 
 - Variable: IR
 - Either of Standardization: FD, SD, FD.EMR, SD.EMR
