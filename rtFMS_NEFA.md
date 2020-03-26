@@ -3,7 +3,7 @@
 The following picture is a histogram of the balanced accuracy after running all the options.
 ![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Hist_Binary_Bal_Acc_GLMNET_NEFA.jpg)
 
-We used the rfFMS technique to obtain the following tree:
+We used the rtFMS technique to obtain the following tree:
 ![tree](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Tree_Binary_Bal_Acc_GLMNET_NEFA.png)
 
 This shows that the we have two different models with similar performance that we can select:
@@ -14,10 +14,9 @@ This shows that the we have two different models with similar performance that w
 
 And: 
 
-- Variable: IR
-- Either of Standardization: FD, FD.EMR
-- Filter: EMR212
-- Breed: Breed.Yes
+- Variable: FAF1, FAF2
+- Breed: Breed.No
+- Time of milk sampling: Milk.Model.Yes
 
 Note: The other variables do not appear in this conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
