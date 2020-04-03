@@ -1,4 +1,4 @@
-# rtFMS Outcome for Blood NEFA
+# rtFMS Detection Outcome for Blood NEFA
 
 The following picture is a histogram of the balanced accuracy after running all the options.
 ![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Hist_Binary_Bal_Acc_GLMNET_NEFA.jpg)
