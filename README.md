@@ -21,7 +21,7 @@ We fit a __regression tree model__ using the metric __balanced accuracy__ as tar
 
 __Regression Task:__
 
-We run 2000 models (per indicator), using one the following options:
+We run 1600 models (per indicator), using one the following options:
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
 - Use of EMR_standardization (2): EMR.STAND, EMR.NONE
@@ -29,7 +29,7 @@ We run 2000 models (per indicator), using one the following options:
 - Filter (2): AllWN, EMR212
 - Use of Breed (2): Breed.Yes, Breed.No
 - Time of milk sampling (2): Milk.Model.Yes, Milk.Model.No
-- Models (5): Linear Regression, Elastic Net, Multivariate Adaptative Regression Splines, Principal Componet Regression, Partial Least Squares Regression
+- Models (4): Elastic Net, Multivariate Adaptative Regression Splines, Principal Componet Regression, Partial Least Squares Regression
 
 We fit a __regression tree model__ using the metric __root mean squared error__ as target variable and as regressors the afforementioned _options for the model_. With the following links we can see the results obtained for predicting blood NEFA and blood BHBA.
 
