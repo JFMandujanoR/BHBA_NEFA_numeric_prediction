@@ -1,4 +1,4 @@
-# rtFMS Regression Outcome for Blood NEFA
+# rtFMS Regression Outcome for Blood BHBA
 
 The following picture is a histogram of the balanced accuracy after running all the options.
 ![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Hist_GLMNET_NEFA.jpg)
