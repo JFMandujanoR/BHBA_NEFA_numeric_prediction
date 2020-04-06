@@ -9,7 +9,7 @@ We run 400 models (per indicator), always using the so called Elastic Net regres
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
 - Use of EMR_standardization (2): EMR.STAND, EMR.NONE
-- Type of tandardization (5): Raw, FD, SD, FD.EMR, SD.EMR
+- Type of Standardization (5): Raw, FD, SD, FD.EMR, SD.EMR
 - Filter (2): AllWN, EMR212
 - Use of Breed (2): Breed.Yes, Breed.No
 - Time of milk sampling (2): Milk.Model.Yes, Milk.Model.No
@@ -25,7 +25,7 @@ We run 400 models (per indicator), using the Elastic Net regression and one the 
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
 - Use of EMR_standardization (2): EMR.STAND, EMR.NONE
-- Type of tandardization (5): Raw, FD, SD, FD.EMR, SD.EMR
+- Type of Standardization (5): Raw, FD, SD, FD.EMR, SD.EMR
 - Filter (2): AllWN, EMR212
 - Use of Breed (2): Breed.Yes, Breed.No
 - Time of milk sampling (2): Milk.Model.Yes, Milk.Model.No
