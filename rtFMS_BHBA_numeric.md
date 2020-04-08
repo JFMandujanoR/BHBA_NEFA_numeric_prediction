@@ -13,11 +13,10 @@ Then we have one best model that we can select:
 - Variable: IR
 - Breed: Breed.No
 - Filter: EMR212
-- Standardization: FD, SD, FD.EMR, SD.EMR
 
 Note 1: The other variables do not appear in this conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
-Note 2: The target variable BHBA was transformed using y = log(x+1) in order to normalize the data. 
+Note 2: The target variable BHBA was transformed using y = log(x) in order to normalize the data. 
 
 _________________________________________________________________________________________________________________________________
 [QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report)
