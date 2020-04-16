@@ -34,6 +34,16 @@ We fit a __regression tree model__ using the metric __root mean squared error__ 
 
 - Here we can find the [rtFMS regression outcome for blood NEFA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_NEFA_numeric.md)
 - Here we can find the [rtFMS regression outcome for blood BHBA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_BHBA_numeric.md)
+__________________________________________________________________________________________________________________________
+NOTE: 
+Regarding complete tables with metric results from each model please email me (mandujanorey@wisc.edu) asking for an especific model following the nomenclature above. Please especify the task and indicator. For example:
 
+_Model IR, EMR.NONE, Raw, AllWN, Breed.Yes, Milk.Model.Yes for Detection/Classification Task NEFA_
+
+Or, if you wish I can send a compelte branch of a regression tree (in the links above) asking for a number of branch. For example:
+
+_Model branch 3 for Detection/Classification Task NEFA_
 __________________________________________________________________________________________________________________________
 _Reported by: J. Francisco Mandujano R. (UW-MAdison)_
+
+_mandujanorey@wisc.edu_
