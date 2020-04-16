@@ -42,7 +42,7 @@ _Model IR, EMR.NONE, Raw, AllWN, Breed.Yes, Milk.Model.Yes for Detection/Classif
 
 Or, if you wish I can send a compelte branch of a regression tree (in the links above) asking for a number of branch. For example:
 
-_Model branch 3 for Detection/Classification Task NEFA_
+_Branch 3 for Detection/Classification Task NEFA_
 __________________________________________________________________________________________________________________________
 _Reported by: J. Francisco Mandujano R. (UW-MAdison)_
 
