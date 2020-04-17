@@ -34,4 +34,4 @@ We can consult the complete tables of these models here:
 [Download Table](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/dat1_BHBA.xlsx)
 
 _________________________________________________________________________________________________________________________________
-[QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report)
+[QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
