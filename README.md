@@ -1,11 +1,11 @@
 # QCheck_Prediction_Report
 Report of prediction model for bNEFA and bBHBA using QCheck data
 
-In this repository we present the outcomes of the Regression Tree Full Model Selection (rtFMS) approach to select the best prediction model in two tasks: to dectect high blood BHBA and NEFA values (detection/classification task), and for to predict a numeric value of those indicators (regression task). We used the QCheck data to test different permutations of possible models, we enlist the different options per task below.
+In this repository we present the outcomes of the Regression Tree Full Model Selection (rtFMS) approach to select the best prediction model in two tasks: to dectect high blood BHBA and NEFA values (detection/classification task), and to predict a numeric value of those indicators (regression task). We used the QCheck data to test different permutations of possible models, we list the different options per task below.
 
 __Detection/Classification Task:__
 
-We run 400 models (per indicator), always using the so called Elastic Net regression, using one the following options:
+We run 400 models (per indicator), always using the so called Elastic Net regression, using one of the following options:
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
 - Use of EMR_standardization (2): EMR.STAND, EMR.NONE
@@ -21,7 +21,7 @@ We fit a __regression tree model__ using the metric __balanced accuracy__ as tar
 
 __Regression Task:__
 
-We run 400 models (per indicator), using the Elastic Net regression and one the following options:
+We run 400 models (per indicator), using the Elastic Net regression and one of the following options:
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
 - Use of EMR_standardization (2): EMR.STAND, EMR.NONE
@@ -36,11 +36,12 @@ We fit a __regression tree model__ using the metric __root mean squared error__ 
 - Here we can find the [rtFMS regression outcome for blood BHBA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_BHBA_numeric.md)
 __________________________________________________________________________________________________________________________
 NOTE: 
-Regarding complete tables with metric results from each model please email me (mandujanorey@wisc.edu) asking for an especific model following the nomenclature above. Please especify the task and indicator. For example:
+
+Regarding complete tables with metric results from each model please email me (mandujanorey@wisc.edu) asking for a specific model following the nomenclature above. Please specify the task and indicator. For example:
 
 _Model IR, EMR.NONE, Raw, AllWN, Breed.Yes, Milk.Model.Yes for Detection/Classification Task NEFA_
 
-Or, if you wish I can send a compelte branch of a regression tree (in the links above) asking for a number of branch. For example:
+Or, if you wish I can send a complete branch of a regression tree (in the links above) asking for a number of branch. For example:
 
 _Branch 3 for Detection/Classification Task NEFA_
 __________________________________________________________________________________________________________________________
