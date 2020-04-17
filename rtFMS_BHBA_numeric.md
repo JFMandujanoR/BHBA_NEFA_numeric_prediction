@@ -21,5 +21,5 @@ Note 2: The target variable BHBA was transformed using y = log(x) in order to no
 The following graph shows a plot of the best model predicted values vs actual values for BHBA. The red line is the identity. We can see that we are underestimating the real value of the high BHBA values.
 ![nefa](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA.png)
 _________________________________________________________________________________________________________________________________
-[QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report)
+[QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
 
