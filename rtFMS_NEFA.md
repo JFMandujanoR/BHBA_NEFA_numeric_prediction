@@ -22,12 +22,6 @@ And:
 
 Note: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
-In order to compare the different branches of the tree we selected one model per brach and made a _radar graph_ using sensitivity (__se__), specificity (__sp__), balanced accuracy (__balanced.acc__) and diagnostic accuracy (__diag.acc__):
-
-![comparation of branches here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/comparing_branches_NEFA.png). 
-
-We say that the best branch of models is the one that reach the highest value in each feature (se, sp, blanced.acc and diag.acc). In this case, we selected the first two branches of models.
-
 We can consult the complete tables of these models here:
 ![table](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_tables.PNG)
 
