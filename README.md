@@ -8,9 +8,9 @@ __Detection/Classification Task:__
 We run 96 models (per indicator), always using the so called Elastic Net regression, using one of the following options:
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
-- Use of EMR_standardization (2): EMR.STAND, EMR.NONE (JUST FOR IR)
-- Type of Standardization (5): Raw, FD, SD, FD.EMR, SD.EMR (JUST FOR IR)
-- Filter (2): AllWN, EMR212 (JUST FOR IR)
+- Use of EMR_standardization (2): EMR.STAND, EMR.NONE (just for IR)
+- Type of Standardization (5): Raw, FD, SD, FD.EMR, SD.EMR (just for IR)
+- Filter (2): AllWN, EMR212 (just for IR)
 - Use of Breed (2): Breed.Yes, Breed.No
 - Time of milk sampling (2): Milk.Model.Yes, Milk.Model.No
 
@@ -24,9 +24,9 @@ __Regression Task:__
 We run 384 models (per indicator), using the four different algorithms of regression and one of the following options:
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
-- Use of EMR_standardization (2): EMR.STAND, EMR.NONE (JUST FOR IR)
-- Type of Standardization (5): Raw, FD, SD, FD.EMR, SD.EMR (JUST FOR IR)
-- Filter (2): AllWN, EMR212 (JUST FOR IR)
+- Use of EMR_standardization (2): EMR.STAND, EMR.NONE (just for IR)
+- Type of Standardization (5): Raw, FD, SD, FD.EMR, SD.EMR (just for IR)
+- Filter (2): AllWN, EMR212 (just for IR)
 - Use of Breed (2): Breed.Yes, Breed.No
 - Time of milk sampling (2): Milk.Model.Yes, Milk.Model.No
 - Algorithms (4): PLSRegression, PCRegression, Elastic Net and MARS
