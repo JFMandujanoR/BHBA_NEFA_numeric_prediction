@@ -29,7 +29,7 @@ We run 384 models (per indicator), using the four different algorithms of regres
 - Filter (2): AllWN, EMR212
 - Use of Breed (2): Breed.Yes, Breed.No
 - Time of milk sampling (2): Milk.Model.Yes, Milk.Model.No
-- Algorithms: PLSRegression, PCRegression, Elastic Net and MARS
+- Algorithms (4): PLSRegression, PCRegression, Elastic Net and MARS
 
 We fit a __regression tree model__ using the metric __root mean squared error__ as target variable and as regressors the aforementioned _options for the model_. With the following links we can see the results obtained for predicting blood NEFA and blood BHBA.
 
