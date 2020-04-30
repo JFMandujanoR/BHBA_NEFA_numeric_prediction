@@ -5,7 +5,7 @@ In this repository we present the outcomes of the Regression Tree Full Model Sel
 
 __Detection/Classification Task:__
 
-We run 400 models (per indicator), always using the so called Elastic Net regression, using one of the following options:
+We run 96 models (per indicator), always using the so called Elastic Net regression, using one of the following options:
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
 - Use of EMR_standardization (2): EMR.STAND, EMR.NONE
@@ -21,7 +21,7 @@ We fit a __regression tree model__ using the metric __balanced accuracy__ as tar
 
 __Regression Task:__
 
-We run 400 models (per indicator), using the Elastic Net regression and one of the following options:
+We run 384 models (per indicator), using the four different algorithms of regression and one of the following options:
 
 - Type of Variable (5): FAF, FAF1, FAF2, FAF3, IR
 - Use of EMR_standardization (2): EMR.STAND, EMR.NONE
@@ -29,6 +29,7 @@ We run 400 models (per indicator), using the Elastic Net regression and one of t
 - Filter (2): AllWN, EMR212
 - Use of Breed (2): Breed.Yes, Breed.No
 - Time of milk sampling (2): Milk.Model.Yes, Milk.Model.No
+- Algorithms: PLSRegression, PCRegression, Elastic Net and MARS
 
 We fit a __regression tree model__ using the metric __root mean squared error__ as target variable and as regressors the aforementioned _options for the model_. With the following links we can see the results obtained for predicting blood NEFA and blood BHBA.
 
@@ -43,7 +44,7 @@ _Model IR, EMR.NONE, Raw, AllWN, Breed.Yes, Milk.Model.Yes for Detection/Classif
 
 Or, if you wish I can send a complete branch of a regression tree (in the links above) asking for a number of branch. For example:
 
-_Branch 3 for Detection/Classification Task NEFA_
+_Branch 2 for Detection/Classification Task NEFA_
 __________________________________________________________________________________________________________________________
 _Reported by: J. Francisco Mandujano R. (UW-MAdison)_
 
