@@ -8,7 +8,7 @@ We used the rtFMS technique to obtain the following tree with 21 terminal nodes:
 
 ![tree](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_tree.png)
 
-We have n models per branch. These n models have a similar performance. On the bottom of the tree we can see box plots centered in the mean balanced accuracy of the n models in the branch. We then choose the branch with the highest mean balanced accuracy.
+We have n models per branch. These n models have a similar performance. On the bottom of the tree we can see box plots centered in the mean balanced accuracy of the n models in the branch. 
 
 Then we can select the branch 3, with mean = 0.6121 and sd = 0.0053:
 
