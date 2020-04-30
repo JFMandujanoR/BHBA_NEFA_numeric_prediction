@@ -22,10 +22,5 @@ And:
 
 Note: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
-We can consult the complete tables of these models here:
-![table](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_tables.PNG)
-
-[Download Table](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/dat1_BHBA.xlsx)
-
 _________________________________________________________________________________________________________________________________
 [QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
