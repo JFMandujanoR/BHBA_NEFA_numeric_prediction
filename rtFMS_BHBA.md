@@ -1,7 +1,7 @@
 # rtFMS Outcome for BHBA
 
 The following picture is a histogram of the balanced accuracy after running all the options.
-![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Hist_Binary_Bal_Acc_GLMNET_BHBA.jpg)
+![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Hist_Binary_Bal_Acc_GLMNET_BHBA.png)
 
 We used the rtFMS technique to obtain the following tree:
 ![tree](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Tree_Binary_Bal_Acc_GLMNET_BHBA.png)
