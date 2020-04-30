@@ -1,10 +1,10 @@
 # rtFMS Regression Outcome for Blood BHBA
 
 The following picture is a histogram of the root mean square error after running all the options.
-![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Histogram_Numeric_RMSE_GLMNET_BHBA.png)
+![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/RMSE_BHBA.png)
 
 We used the rtFMS technique to obtain the following tree:
-![tree](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Tree_Numeric_RMSE_GLMNET_BHBA.png)
+![tree](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_tree.png)
 
 We have n models per branch. These n models have a similar performance. On the bottom of the tree we can see box plots centered in the mean balanced accuracy of the n models in the branch. We then choose the branch with the highest mean balanced accuracy.
 
