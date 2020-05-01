@@ -18,5 +18,14 @@ Then we can select the branch 5, with mean = 0.7860 and sd = 0.0039:
 
 Note: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
+Tables of variable importance for the 16 models in the best branch:
+
+[importance](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_binary_tables_importance.csv)
+
+Tables of performance for the 16 models in the best branch: 
+
+[performance](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_binary_tables_performance.csv)
+
+
 _________________________________________________________________________________________________________________________________
 [QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
