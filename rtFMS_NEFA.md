@@ -20,11 +20,11 @@ Note: The other variables do not appear in these conclusions because their elect
 
 Tables of variable importance for the 16 models in the best branch:
 
-[importance](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_binary_tables_importance.csv)
+[importance](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_binary_tables_importance.csv)
 
 Tables of performance for the 16 models in the best branch: 
 
-[performance](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_binary_tables_performance.csv)
+[performance](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_binary_tables_performance.csv)
 
 
 _________________________________________________________________________________________________________________________________
