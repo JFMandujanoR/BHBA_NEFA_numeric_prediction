@@ -23,9 +23,11 @@ Note 1: The other variables do not appear in these conclusions because their ele
 Note 2: The target variable NEFA was transformed using y = log(x) in order to normalize the data. 
 
 The following graph shows a plot of the best model (using GLMNET) predicted values vs actual values for NEFA. The line is the identity. We can see that we are overestimating the real value of the high NEFA values.
+
 ![nefa](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA.png)
 
 The following graph shows a plot of the best model (using MARS) predicted values vs actual values for NEFA. The line is the identity. 
+
 ![nefa](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA2.png)
 
 Tables of variable importance for the 32 models in the best branch:
