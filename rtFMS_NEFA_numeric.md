@@ -34,6 +34,9 @@ Tables of variable importance for the 32 models in the best branch:
 
 [importance](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_numeric_tables_importance.csv)
 
+NOTE: 
+
+To download a table click "Raw" button (right up) and then do right click on the text in the screen and select "save as..."
 _________________________________________________________________________________________________________________________________
 [QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
 
