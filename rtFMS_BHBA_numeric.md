@@ -18,7 +18,7 @@ Then we can select the branch 3, with mean = 0.1587 and sd = 0.0015:
 
 Note 1: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
-Note 2: The target variable BHBA was transformed using y = log(x) in order to normalize the data. 
+Note 2: The target variable BHBA was transformed using y = log(x+1) in order to normalize the data. 
 
 The following graph shows a plot of the best model predicted values vs actual values for BHBA. The red line is the identity. We can see that we are underestimating the real value of the high BHBA values.
 ![bhba](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_0.png)
