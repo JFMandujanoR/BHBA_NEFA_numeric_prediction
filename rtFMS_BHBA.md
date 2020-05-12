@@ -9,7 +9,7 @@ We used the rtFMS technique to obtain the following tree with 5 terminal nodes:
 
 We have n models per branch. These n models have a similar performance. On the bottom of the tree we can see box plots centered in the mean balanced accuracy of the n models in the branch. We then choose the branch with the highest mean balanced accuracy.
 
-Then we can select the branch 2, with mean = 0.7919 and sd = 0.0072:
+Then we can select the branch 2, from left to right, with mean = 0.7919 and sd = 0.0072:
 
 - Variable: IR
 - Either of Standardization: FD, SD, FD.EMR, SD.EMR
