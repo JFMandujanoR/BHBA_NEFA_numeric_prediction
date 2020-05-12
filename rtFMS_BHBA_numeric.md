@@ -9,7 +9,7 @@ We used the rtFMS technique to obtain the following tree with 22 terminal nodes:
 
 We have n models per branch. These n models have a similar performance. On the bottom of the tree we can see box plots centered in the mean balanced accuracy of the n models in the branch. 
 
-Then we can select the branch 3, with mean = 0.3596 and sd = 0.0031:
+Then we can select the branch 3, from left to right, with mean = 0.3596 and sd = 0.0031:
 
 - Variable: IR
 - Breed: Breed.No
