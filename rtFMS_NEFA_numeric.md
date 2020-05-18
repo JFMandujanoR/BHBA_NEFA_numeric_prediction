@@ -1,6 +1,6 @@
 # rtFMS Regression Outcome for Blood NEFA
 
-The following picture is a histogram of the root mean square error after running all the options.We have a mean = 0.6972 with sd = 0.1001.
+The following picture is a histogram of the root mean square error after running all the options.We have a mean = 0.697 with sd = 0.100.
 
 ![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/RMSE_NEFA.png)
 
