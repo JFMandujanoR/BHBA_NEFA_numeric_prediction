@@ -16,6 +16,8 @@ Then we can select the branch 3, from left to right, with mean = 0.3596 and sd =
 - Filter: EMR212
 - Model: GLMNET
 
+Top 5 branches: 3,4,2,5,1
+
 Note 1: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
 Note 2: The target variable BHBA was transformed using y = log(x) in order to normalize the data. 
