@@ -1,7 +1,7 @@
 # QCheck_Prediction_Report
 Report of prediction model for bNEFA and bBHBA using QCheck data
 
-In this repository we present the outcomes of the Regression Tree Full Model Selection (rtFMS) approach to select the best prediction model in two tasks: to dectect high blood BHBA and NEFA values (detection/classification task), and to predict a numeric value of those indicators (regression task). We used the QCheck data to test different permutations of possible models, we list the different options per task below. The data set consists in 9660 data points. Our predictive models will always consider the information available for the cow: days in milk, lactation number and daily milk yield.
+In this repository we present the outcomes of the Regression Tree Full Model Selection (rtFMS) approach to select the best prediction model in two tasks: to dectect high blood BHBA and NEFA values (detection/classification task), and to predict a numeric value of those indicators (regression task). We used the QCheck data to test different permutations of possible models, we list the different options per task below. The data set consists in 11822 observations -> 9660 observations after selecting rows with FAF, Breed, Milking, DIM(5,50). Our predictive models will always consider the information available for the cow: days in milk, lactation number and daily milk yield.
 
 __Detection/Classification Task:__
 
