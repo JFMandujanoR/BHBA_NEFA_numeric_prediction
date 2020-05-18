@@ -16,6 +16,8 @@ Then we can select the branch 6, from left to right, with mean = 0.7860 and sd =
 - Filter: EMR212
 - Standardization: FD, FD.EMR
 
+Top 5 branches: 6,1,3,7,5
+
 Note: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
 Tables of variable importance for the 16 models in the best branch:
