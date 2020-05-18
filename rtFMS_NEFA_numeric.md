@@ -18,6 +18,8 @@ Then we can select the branch 3, from left to right, with mean = 0.6121 and sd =
 - Standardization: FD, SD, FD.EMR, SD.EMR
 - Model: GLMNET, MARS
 
+Top 5 branches: 3,2,6,1,4
+
 Note 1: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
 Note 2: The target variable NEFA was transformed using y = log(x) in order to normalize the data. 
