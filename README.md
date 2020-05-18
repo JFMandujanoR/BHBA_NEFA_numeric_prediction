@@ -14,7 +14,7 @@ We run 96 models (per indicator), always using the so called Elastic Net regress
 - Use of Breed (2): Breed.Yes, Breed.No
 - Time of milk sampling (2): Milk.Model.Yes, Milk.Model.No
 
-We fit a __regression tree model__ using the metric __balanced accuracy__ as target variable and as regressors the afforementioned _options for the model_. With the following links we can see the results obtained for detecting high blood NEFA and blood BHBA.
+We fit a __regression tree model__ using the metric __balanced accuracy__ as target variable and as regressors the afforementioned _options for the model_. With the following links we can see the results obtained for detecting high blood NEFA (threshold 0.7) and blood BHBA (threshold 1.2).
 
 - Here we can find the [rtFMS detection outcome for blood NEFA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_NEFA.md)
 - Here we can find the [rtFMS detection outcome for blood BHBA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_BHBA.md)
