@@ -27,6 +27,17 @@ Tables of performance for the 32 models in the best branch:
 
 [performance](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_binary_tables_performance.csv)
 
+_For Branch 1:_
+
+Tables of variable importance for the 32 models in the first branch:
+
+[importance_B1](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_binary_tables_importance_B1.csv)
+
+Tables of performance for the 32 models in the best branch: 
+
+[performance_B1](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_binary_tables_performance_B1.csv)
+
+
 NOTE: 
 
 To download a table click "Raw" button (right up) and then do right click on the text in the screen and select "save as..."
