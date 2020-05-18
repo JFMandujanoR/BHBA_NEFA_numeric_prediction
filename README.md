@@ -35,6 +35,11 @@ We fit a __regression tree model__ using the metric __root mean squared error__ 
 
 - Here we can find the [rtFMS regression outcome for blood NEFA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_NEFA_numeric.md)
 - Here we can find the [rtFMS regression outcome for blood BHBA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_BHBA_numeric.md)
+
+__Spectral Data__
+
+![spectral](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/spectral.png)
+
 __________________________________________________________________________________________________________________________
 NOTE: 
 
