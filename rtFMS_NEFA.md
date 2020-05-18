@@ -1,6 +1,6 @@
 # rtFMS Detection Outcome for Blood NEFA
 
-The following picture is a histogram of the balanced accuracy after running all the options. We have a mean = 0.7732 with sd = 0.0126
+The following picture is a histogram of the balanced accuracy after running all the options. We have a mean = 0.77 with sd = 0.01
 
 ![histogram](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Hist_Binary_Bal_Acc_GLMNET_NEFA.png)
 
