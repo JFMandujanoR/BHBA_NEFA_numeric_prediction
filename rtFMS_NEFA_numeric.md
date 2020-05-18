@@ -26,7 +26,7 @@ Note 2: The target variable NEFA was transformed using y = log(x) in order to no
 
 The following graph shows a plot of the best model (using GLMNET) predicted values vs actual values for NEFA. The line is the identity. We can see that we are overestimating the real value of the high NEFA values.
 
-![nefa](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_0.png)
+![nefa](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA3.png)
 
 Tables of variable importance for the 32 models in the best branch:
 
