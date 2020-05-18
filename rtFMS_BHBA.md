@@ -15,6 +15,8 @@ Then we can select the branch 2, from left to right, with mean = 0.7919 and sd =
 - Either of Standardization: FD, SD, FD.EMR, SD.EMR
 - EMR_standardization: EMR.STAND
 
+Top 5 branches: 2,1,4,3,5
+
 Note: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
 Tables of variable importance for the 32 models in the best branch:
