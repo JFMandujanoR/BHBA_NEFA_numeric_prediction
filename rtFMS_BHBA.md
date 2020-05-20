@@ -41,5 +41,13 @@ Tables of performance for the 32 models in the best branch:
 NOTE: 
 
 To download a table click "Raw" button (right up) and then do right click on the text in the screen and select "save as..."
+
+In the following tables we can see a comparation among the different types of variables (FAF, FAF1, FAF2, FAF3, IR, IR with stand):
+
+![tab_nefa](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/BHBA_binary_tablas.png)
+
+In yellow we can see the best model which also belongs to the best branch in the rtFMS.
+
+[download here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Total_BHBA.xlsx)
 _________________________________________________________________________________________________________________________________
 [QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
