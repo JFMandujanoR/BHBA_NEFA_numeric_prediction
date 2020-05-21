@@ -32,7 +32,7 @@ NOTE:
 
 To download a table click "Raw" button (right up) and then do right click on the text in the screen and select "save as..."
 
-In the following tables we can see a comparation among the different types of variables (FAF, FAF1, FAF2, FAF3, IR, IR with stand):
+In the following tables we can see a comparison among the different types of variables (FAF, FAF1, FAF2, FAF3, IR, IR with stand):
 
 ![tab_nefa](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_binary_tablas.png)
 
