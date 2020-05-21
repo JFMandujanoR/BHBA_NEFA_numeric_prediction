@@ -40,5 +40,6 @@ In yellow we can see the best model which also belongs to the best branch in the
 
 [download here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Total_NEFA.xlsx)
 
+To see the importance of variables of these 6 models [click here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/imp_6_models_NEFA.csv)
 _________________________________________________________________________________________________________________________________
 [QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
