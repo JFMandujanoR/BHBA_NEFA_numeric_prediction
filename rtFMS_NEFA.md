@@ -32,14 +32,16 @@ NOTE:
 
 To download a table click "Raw" button (right up) and then do right click on the text in the screen and select "save as..."
 
-In the following tables we can see a comparison among the different types of variables (FAF, FAF1, FAF2, FAF3, IR, IR with stand):
+In the following tables we can see a comparison of performance and variables (top 20) among the different types of input (FAF, FAF1, FAF2, FAF3, IR, IR with stand):
 
 ![tab_nefa](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_binary_tablas.png)
+
+![imp_tab](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/NEFA_binary_imp_tab.png)
 
 In yellow we can see the best model which also belongs to the best branch in the rtFMS.
 
 [download here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/Total_NEFA.xlsx)
 
-To see the importance of variables of these 6 models [click here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/imp_6_models_NEFA.csv)
+To see the complete importance of variables of these 6 models [click here](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/imp_6_models_NEFA.csv)
 _________________________________________________________________________________________________________________________________
 [QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
