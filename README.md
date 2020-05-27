@@ -40,6 +40,9 @@ __Spectral Data__
 
 ![spectral](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/spectral.png)
 
+__FA Panels__
+
+![panels](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/paneles_FAF.png)
 __________________________________________________________________________________________________________________________
 NOTE: 
 
